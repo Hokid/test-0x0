@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Hokid/test-0x0#readme",
   "devDependencies": {
+    "conventional-changelog-angular": "^5.0.1",
     "conventional-github-releaser": "^3.1.2"
   }
 }
